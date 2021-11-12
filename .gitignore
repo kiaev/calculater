@@ -1,0 +1,5 @@
+#игнорировать все кроме src и pom.xml
+.idea/*
+calculater_1.iml
+
+
